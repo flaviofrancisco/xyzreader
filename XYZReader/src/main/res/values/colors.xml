@@ -17,7 +17,6 @@
 
 <resources>
     <!--100-->
-    <color name="theme_primary_light">#FFCCBC</color>
     <!--200-->
     <color name="photo_placeholder">#FFAB91</color>
     <!--300-->

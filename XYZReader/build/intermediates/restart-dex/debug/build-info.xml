@@ -4,40 +4,29 @@
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="63457181267156" >
+    timestamp="171204548664437" >
 
     <task
         name="javac"
-        duration="331" />
+        duration="399" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="32" />
+        duration="108" />
     <task
         name="verifier"
-        duration="13" />
+        duration="12" />
 
     <artifact
-        location="C:\Users\Flavio\Documents\GitHub\xyzreader\XYZReader\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="C:\Users\Flavio\Documents\GitHub\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-        type="DEX" />
+        location="C:\Users\Flavio\Documents\GitHub\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="63223855815581" >
+    <build timestamp="171204548664437" >
         <artifact
             location="C:\Users\Flavio\Documents\GitHub\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="63457181267156" >
-        <artifact
-            location="C:\Users\Flavio\Documents\GitHub\xyzreader\XYZReader\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="C:\Users\Flavio\Documents\GitHub\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

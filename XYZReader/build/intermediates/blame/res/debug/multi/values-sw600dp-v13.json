@@ -444,27 +444,8 @@
                     "startLine": 25,
                     "startColumn": 4,
                     "startOffset": 1554,
-                    "endColumn": 41,
-                    "endOffset": 1591
-                },
-                "from": {
-                    "file": "C:\\Users\\Flavio\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 238,
-                        "endColumn": 41,
-                        "endOffset": 275
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 1596,
                     "endColumn": 94,
-                    "endOffset": 1686
+                    "endOffset": 1644
                 },
                 "from": {
                     "file": "C:\\Users\\Flavio\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
@@ -479,11 +460,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1691,
+                    "startOffset": 1649,
                     "endColumn": 54,
-                    "endOffset": 1741
+                    "endOffset": 1699
                 },
                 "from": {
                     "file": "C:\\Users\\Flavio\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
@@ -498,11 +479,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1746,
+                    "startOffset": 1704,
                     "endColumn": 62,
-                    "endOffset": 1804
+                    "endOffset": 1762
                 },
                 "from": {
                     "file": "C:\\Users\\Flavio\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
@@ -517,12 +498,12 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1809,
-                    "endLine": 32,
+                    "startOffset": 1767,
+                    "endLine": 31,
                     "endColumn": 12,
-                    "endOffset": 1986
+                    "endOffset": 1944
                 },
                 "from": {
                     "file": "C:\\Users\\Flavio\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
